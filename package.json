@@ -1,0 +1,32 @@
+{
+  "name": "sticky-flex-fluid-footer",
+  "version": "0.1.0",
+  "description": "A clean solution to a sticky fluid (without fixed height) footer, without using viewport units (e.g. min-height: 100vh). No more buggy behaviors in iOS 7 Safari and IE",
+  "main": "src/footer.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charbelrami/sticky-flex-fluid-footer.git"
+  },
+  "keywords": [
+    "footer",
+    "sticky",
+    "fluid",
+    "flex",
+    "flexbox"
+  ],
+  "author": "Charbel Rami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charbelrami/sticky-flex-fluid-footer/issues"
+  },
+  "homepage": "https://github.com/charbelrami/sticky-flex-fluid-footer",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-autoprefixer": "0.0.9",
+    "gulp-changed": "^1.0.0",
+    "gulp-minify-css": "^0.3.7",
+    "gulp-rename": "^1.2.0",
+    "gulp-size": "^1.0.0"
+  },
+  "dependencies": {}
+}
